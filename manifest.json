@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+
+  "name": "MUX",
+  "description": "This extension adds extra functionality to the Marvel Unlimited Beta Comic Reader",
+  "version": "0.1.12",
+  "permissions": [
+     "storage" 
+  ],
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "browser_action": {
+    "default_icon": "icon16.png",
+    "default_popup": "popup.html"    
+  },
+  "options_page" : "options.html",
+  "content_scripts": [
+    {
+      "matches" : ["*://reader.marvel.com/*"],
+      "include_globs" : ["*#/issue/*"],
+      "js" : ["jquery-1.11.1.min.js","mux.js"],
+      "css" : ["override.css"]
+    },
+    {
+      "matches" : ["*://marvel.com/comics/*"],
+      "js" : ["jquery-1.11.1.min.js", "findLinks.js"]      
+    }
+  ]
+}

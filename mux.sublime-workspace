@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"secr",
+				"secret_number"
+			],
+			[
+				"exter",
+				"extern-crate	extern crate …;"
+			],
+			[
+				"print",
+				"println	println!(…)"
+			],
+			[
+				"Virtu",
+				"VirtualPeopleFactory"
+			],
+			[
+				"Virtual",
+				"VirtualHumanFramework"
+			],
+			[
+				"disco",
+				"discoveries"
+			],
+			[
+				"disc",
+				"discovery"
+			],
+			[
+				"previou",
+				"previousToCurrentEdges"
+			],
+			[
+				"topFil",
+				"topFilterVal"
+			],
+			[
+				"prev",
+				"previousToCurrentEdges"
+			],
+			[
+				"previo",
+				"previousToCurrentEdges"
+			],
+			[
+				"has",
+				"hasParsed"
+			],
+			[
+				"use",
+				"use	Usepackage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "popup.html",
+			"settings":
+			{
+				"buffer_size": 34,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Rust/Cargo.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Run"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: New Report"
+			],
+			[
+				"Snippet: sub",
+				"Snippet: New Subfiles"
+			],
+			[
+				"Snippet: article",
+				"Snippet: New Article"
+			],
+			[
+				"Snippet: cha",
+				"Snippet: Chapter"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Andrew/Documents/chrome_marvel"
+	],
+	"file_history":
+	[
+		"/C/Users/Andrew/Documents/chrome_marvel/.gitignore",
+		"/C/Users/Andrew/Documents/chrome_marvel/mux.js",
+		"/C/Users/Andrew/Documents/chrome_marvel/manifest.json",
+		"/C/Users/Andrew/Documents/chrome_marvel/mux.sublime-project",
+		"/C/Research/acordar.github.io/vpf2/index.html",
+		"/C/Research/acordar.github.io/woz/index.html",
+		"/C/Research/blank/about.md",
+		"/C/Research/acordar.github.io/.gitignore",
+		"/C/Research/acordar.github.io/_layouts/default.html",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Research/acordar.github.io/vendor/css/bootstrap.css",
+		"/C/Research/acordar.github.io/vendor/css/bootstrap.scss",
+		"/C/Research/acordar.github.io/package.json",
+		"/C/Research/acordar.github.io/Gruntfile.js",
+		"/C/Research/vergbot/scripts/vergbot.coffee",
+		"/C/Research/acordar.github.io/index.html",
+		"/C/Research/ANDI_Guide/app/index.html",
+		"/C/Research/acordar.github.io/bower.json",
+		"/C/VERG/VirtualHumanFramework_trunk/VirtualHumanFramework.VirtualPeopleFactory/Scripts/interaction/prototype/NextResponse-compiled.js",
+		"/C/VERG/VirtualHumanFramework_trunk/VirtualHumanFramework.VirtualPeopleFactory/Areas/Classic/Views/Interaction/Prototype.cshtml",
+		"/C/VERG/VirtualHumanFramework_trunk/VirtualHumanFramework.VirtualPeopleFactory/Controllers/ScenarioController.cs",
+		"/C/Users/Andrew/AppData/Roaming/npm/node_modules/mongo-express/config.js",
+		"/C/Users/Andrew/AppData/Roaming/npm/node_modules/mongo-express/app.js",
+		"/C/VERG/VirtualHumanFramework_trunk/VirtualHumanFramework.VirtualPeopleFactory/Scripts/interaction/prototype/userinput.js",
+		"/C/VERG/VirtualHumanFramework_trunk/VirtualHumanFramework.VirtualPeopleFactory/Scripts/interaction/prototype/interaction - Copy.js",
+		"/C/VERG/VirtualHumanFramework_trunk/VirtualHumanFramework.VirtualPeopleFactory/Areas/Classic/Views/Interaction/PrototypeAutoVideo.cshtml",
+		"/C/Research/vergbot/scripts/local_settings.coffee",
+		"/C/VERG/VirtualHumanFramework_trunk/VirtualHumanFramework.VirtualPeopleFactory/Scripts/interaction/interaction.js",
+		"/C/Research/vergbot/scripts/class.coffee",
+		"/C/Research/vergbot/scripts/main.coffee",
+		"/C/Users/Andrew/Personal Stuff/rust/chip8/src/fonts.rs",
+		"/C/Users/Andrew/Personal Stuff/rust/chip8/src/instructions.rs",
+		"/C/Users/Andrew/Personal Stuff/rust/chip8/src/lib.rs",
+		"/C/Users/Andrew/Personal Stuff/rust/chip8/src/chip8/mod.rs",
+		"/C/Users/Andrew/Personal Stuff/rust/embed/Cargo.toml",
+		"/C/Users/Andrew/Personal Stuff/rust/embed/src/lib.rs",
+		"/C/Users/Andrew/Personal Stuff/rust/dining_philosophers/src/main.rs",
+		"/C/Users/Andrew/Personal Stuff/rust/guessing_game/Cargo.toml",
+		"/C/Users/Andrew/Personal Stuff/rust/hello.rs",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/Desktop/example.coffee",
+		"/C/Users/Andrew/Desktop/vergbot_launcher.ps1",
+		"/C/Users/Andrew/Desktop/PublishAndDeploy.cmd",
+		"/C/Users/Andrew/Desktop/PublishVergDev.cmd",
+		"/C/Users/Andrew/Desktop/vergbot.coffee",
+		"/C/Users/Andrew/Desktop/Proposal Presentation/notes.txt",
+		"/C/Users/Andrew/Desktop/sigma/sigma/test3.html",
+		"/C/Users/Andrew/Desktop/test.html",
+		"/C/Users/Andrew/Desktop/solution.sh",
+		"/C/Users/Andrew/AppData/Local/Temp/scp50033/cise/homes/acordar/public_html/graph/graph.html",
+		"/C/Users/Andrew/Documents/Visual Studio 2012/Projects/NewVHLauncher/Externals/VirtualHumanFramework.Core.Messages/VirtualHumanFramework.Core.Messages.csproj",
+		"/C/Users/Andrew/Documents/Visual Studio 2012/Projects/NewVHLauncher/NewVHLauncher/bin/Release/external.config",
+		"/C/Users/Andrew/Downloads/citation-export.txt",
+		"/C/Users/Andrew/Desktop/bandit game.txt",
+		"/C/Users/Andrew/Pictures/test.php",
+		"/C/Users/Andrew/Pictures/test2.bin",
+		"/C/Users/Andrew/Pictures/Window (Template).tif",
+		"/D/posttoslack.php",
+		"/C/Research/VirtualHumanFramework2/VirtualHumanFramework.Core.Messages/Events/Virtual/VHFWalkOut.cs",
+		"/C/Users/Andrew/Documents/Visual Studio 2012/Projects/NewVHLauncher/NewVHLauncher/bin/Release/NewVHLauncher.vshost.exe.config",
+		"/C/Users/Andrew/Documents/Visual Studio 2012/Projects/NewVHLauncher/NewVHLauncher/bin/Release/NewVHLauncher.exe.config",
+		"/C/Users/Andrew/Documents/Visual Studio 2012/Projects/NewVHLauncher/NewVHLauncher/bin/Debug/NewVHLauncher.exe.config",
+		"/C/Users/Andrew/Documents/Visual Studio 2012/Projects/NewVHLauncher/NewVHLauncher/bin/Debug/20150913_0931.txt",
+		"/C/Users/Andrew/Documents/Visual Studio 2012/Projects/NewVHLauncher/NewVHLauncher/bin/Debug/20150913_0916.txt",
+		"/C/Users/Andrew/Desktop/dental.json",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_Skin.zip/My skin/emulationstation/es_log.txt",
+		"/C/Users/Andrew/Downloads/hurtaut_theme_mar_4_2014/hurtaut_theme/README.md",
+		"/C/Users/Andrew/AppData/Local/Temp/Temp1_nbba_theme_v1_1.zip/themes/nbba theme/theme.xml",
+		"/C/Users/Andrew/Videos/4K Video Downloader/Stage 2 - Best Practices.srt",
+		"/D/config.txt",
+		"/C/Users/Andrew/AppData/Local/Temp/TrackedCamera.h-revHEAD.svn000.tmp.h",
+		"/C/Users/Andrew/Downloads/ecm tools/Final Fantasy VIII [NTSC-U] [Disc1of4] [SLUS-00892].img.ecm",
+		"/C/Users/Andrew/Downloads/emulationstation_win32_latest/INSTALL MSVC2013 REDIST.txt",
+		"/C/Users/Andrew/Downloads/ecm tools/docs/readme.txt",
+		"/C/Users/Andrew/Desktop/RetroPie/PS1/Final Fantasy VIII [NTSC-U] [Disc1of4] [SLUS-00892]/Final Fantasy VIII [NTSC-U] [Disc1of4] [SLUS-00892].cue",
+		"/C/Users/Andrew/AppData/Local/Temp/scp07690/cise/homes/acordar/public_html/graph/graph.html",
+		"/C/Users/Andrew/AppData/Local/Temp/scp18427/cise/homes/acordar/public_html/graph/graph.html",
+		"/C/Users/Andrew/Pictures/a.jpg",
+		"/C/Users/Andrew/Desktop/bandit26.key",
+		"/C/99f072936d7913f0129d/mediainfo.xml",
+		"/C/Users/Andrew/Desktop/prvkey.ppk",
+		"/C/Users/Andrew/Downloads/DecodedBase64.bin",
+		"/C/Users/Andrew/AppData/Local/Temp/scp42887/cise/homes/acordar/public_html/graph/graph.html",
+		"/C/Users/Andrew/AppData/Local/Temp/scp08740/cise/homes/acordar/public_html/graph/graph.html",
+		"/C/SSTPSummer2015/Characters/Male_Patient/Patient.exe",
+		"/D/SSTP/SSTP 2015/Assets/ConsoleToGui.cs",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/RenParameterParser.cs",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/VirtualHuman/VHSoundManager.cs",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/VPFCommunication/OfflineSimulatorCommunicator.cs",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/RenLoader.cs",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/RenAssetLoader.cs",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/VPFCommunication/AbstractVPFCommunicator.cs",
+		"/D/SSTP/SSTP 2015 Unity 2/ProjectSettings/ProjectVersion.txt",
+		"/C/Users/Andrew/Documents/Proposal Document/document.tex",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/VirtualHuman/VHLoader.cs",
+		"/D/SSTP/SSTP 2015/Assets/Scripts/Core/RenManager.cs",
+		"/C/Users/Andrew/Documents/Proposal Document/chapters/introduction.tex",
+		"/C/Users/Andrew/Documents/Proposal Document/chapters/chapter02.tex",
+		"/C/Users/Andrew/Documents/Proposal Document/chapters/chapter03.tex",
+		"/C/Users/Andrew/Downloads/proposal template/template/proposal.tex",
+		"/C/Users/Andrew/Documents/Proposal Document/chapters/chapter04.tex",
+		"/D/SSTP/IPS_REN_13/Assets/Scripts/Core/RenAssetLoader.cs",
+		"/D/SSTP/IPS_REN_13/Assets/Scripts/Core/RenMultipleChoiceSimulator.cs",
+		"/C/Users/Andrew/Documents/Proposal Document/document.aux",
+		"/C/Users/Andrew/Downloads/AllegProposal_sp07/AllegProposal_sp07/AllegProposal.tex",
+		"/C/Users/Andrew/Documents/Proposal Document/document.log",
+		"/C/Users/Andrew/Documents/Proposal Document/document.pdf",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Andrew\\Documents\\chrome_marvel"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"test.js",
+			"main.js",
+			"    		",
+			"nextresponse",
+			"nextResponse",
+			"NextResponse",
+			"nextResponse",
+			"Nextresponse",
+			"return",
+			"run",
+			"VHFWa",
+			"boot_delay",
+			"boot_dela",
+			"table",
+			"allResponses",
+			"tooltip",
+			" ",
+			"previousToCurrentEdges",
+			"clear",
+			"Hello",
+			"\"Hello",
+			"marty",
+			"Marty",
+			"topFilter",
+			"id=\"topfilter",
+			"topFilter",
+			"topN",
+			"settings",
+			"#settings",
+			"settings",
+			"createElement",
+			"settings",
+			"edgeLabel",
+			"bottom",
+			"previousCurrentNodes",
+			"log",
+			"li",
+			"start",
+			"dropdown",
+			"closeme",
+			"nodesIndex",
+			"filter",
+			"data",
+			"onload",
+			"search(",
+			"search('",
+			"nil",
+			"SoundManager",
+			"VHSound",
+			"stack",
+			"ProcessMessage",
+			"TriggerEvent",
+			"PlayLocalAudio",
+			"Debug",
+			"Debug.log",
+			"Debug.Log",
+			"Manager",
+			"Debug.Log",
+			"OnParametersPArsed",
+			"ParametersPArsed",
+			"ApplyParameters",
+			"Gui",
+			"ApplyParameters",
+			"Manager",
+			"GetComponent",
+			"Parser",
+			"Manager",
+			"connect",
+			"ParametersParsed",
+			"hasParsed =",
+			"HasParsedParameters",
+			"LoadMesh",
+			"LoadVH",
+			"batchIdArgName",
+			"offline",
+			"IPS",
+			"Loaders",
+			"Loaders.",
+			"TimeTriggers",
+			"content",
+			"path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "popup.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mux.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Research\\acordar.github.io\\andiguide.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

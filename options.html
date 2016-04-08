@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head><title>MUX Options</title></head>
+<style>
+  body {
+    font-family: Helvetica, sans-serif;
+  }
+  label {
+    display: inline-block;
+    text-align:right;
+    vertical-align: middle;
+    width: 10em;
+    margin: 0 1em 0 0;
+  }
+  select {
+    padding: 0.5em 0.6em;
+    display: inline-block;
+    vertical-align: middle;
+    width: 200px;
+  }
+
+  .submitDiv {
+    margin: 1.5em 0 0 14.3em;
+  }
+  .minimal {
+    background: #e3e3e3;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    -webkit-box-shadow: inset 0 0 1px 1px #f6f6f6;
+    box-shadow: inset 0 0 1px 1px #f6f6f6;
+    color: #333;
+    padding: 8px 0 9px;
+    text-align: center;
+    text-shadow: 0 1px 0 #fff;
+    width: 150px;    
+  }  
+  #userPref {  
+    margin: 0;
+    padding: 0.35em 0 0.75em;
+  }
+  #container {
+    position: relative;
+    margin: 0px auto;
+    max-width: 1020px;
+    padding-top: 55px;
+  }
+  .group {
+    margin-bottom: 0.5em;
+  }
+  h3 {
+    margin: 0 1em 0 0;
+    width: 10em;
+  }
+</style>
+<body>
+
+<div id="container">
+  <div id="userPref">  
+    <h3>Options</h3>
+    <div class="group">    
+      <label>Page View Mode</label>
+      <select id="pageViewMode">
+        <option value="1">One page at a time</option>
+        <option value="2">Two pages at a time</option>
+      </select>
+    </div>
+    <div class="group">
+      <label>Default Fit Mode</label>
+      <select id="fitMode">
+        <option value="0">Fit page to width</option>
+        <option value="1">Fit page to height</option>
+      </select>
+    </div>
+    <div class="submitDiv">
+      <button class="minimal" id="save">Save</button>
+    </div>
+  </div>
+</div>
+
+<script src="options.js"></script>
+</body>
+</html>
